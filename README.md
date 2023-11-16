@@ -28,6 +28,12 @@ Welcome to BudgetBuddy, your magical solution for effortlessly tracking your dai
 
 ✨ **Editable Tracked Budget: Users have the ability to modify their tracked budgets, including adjusting spending limits, adding or removing budget categories, or changing budget amounts for specific categories. This flexibility allows users to adapt their budgets according to changing financial circumstances or priorities.
 
+## Demo
+
+
+https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/5b0a9c9b-afa4-4ea6-9e36-8cba7afdf1d4
+
+
 ## Installation
 📲 To install BudgetBuddy on your Android device, follow these steps:
 
