@@ -11,13 +11,14 @@ Join us on this thrilling adventure towards financial liberation, where every ex
 ## Table of Contents
 1. Download the APK
 2. Features
-3. Installation
-4. Usage
-5. Bug Reporting
-6. Contact
+3. Demo
+4. Installation
+5. Usage
+6. Bug Reporting
+7. Contact
    
 ## Download the APK
-📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing). Install it on your Android device to unlock a world of multimedia conversion possibilities.
+📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing). Install it on your Android device to find solution for effortlessly tracking your daily expenses and incomes.
 
 ## Features
 ✨ **Expense Tracking** : Allows users to input and categorize their daily expenses, including the amount spent, category (like food, transportation, entertainment), date, and additional notes.
@@ -30,8 +31,11 @@ Join us on this thrilling adventure towards financial liberation, where every ex
 
 ✨ **Editable Tracked Budget** : Users have the ability to modify their tracked budgets, including adjusting spending limits, adding or removing budget categories, or changing budget amounts for specific categories. This flexibility allows users to adapt their budgets according to changing financial circumstances or priorities.
 
-
 These features collectively enable users to comprehensively track both their income and expenses, visualize the data through pie charts for better insights, and customize their tracked budgets to suit their financial planning preferences.
+
+## Demo
+
+https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/7ba2facd-4090-4e80-9fe0-160fbc8a3358
 
 ## Installation 
 📲 To install ConvertEase on your Android device, follow these steps:
