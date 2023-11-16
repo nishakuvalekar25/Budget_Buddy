@@ -1,7 +1,6 @@
 # BudgetBuddy : Expense Tracker System
 
-![image](https://drive.google.com/file/d/1oQ9kyqt0mX2Uh1Orb2ZK92YH5PwD1opc/view?usp=drive_link)
-
+![image](https://drive.google.com/file/d/1oQ9kyqt0mX2Uh1Orb2ZK92YH5PwD1opc/view?usp=sharing)
 
 
 Welcome to BudgetBuddy, your magical solution for effortlessly tracking your daily expenses and incomes. Imagine a world where managing your finances feels like a breeze—that is precisely what BudgetBuddy offers. It is not just an app; it is your personal finance genie, here to simplify your money management journey. 
