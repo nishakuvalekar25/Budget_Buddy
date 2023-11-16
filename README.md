@@ -40,7 +40,7 @@ https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/7ba2facd-4090-
 ## Installation 
 📲 To install BudgetBuddy on your Android device, follow these steps:
 
-1. Download the APK from the [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing).
+1. Download the APK from the [Here](https://drive.google.com/file/d/1kNF7LLhK-znKRhCKDCnOM7dxsvFaVSKs/view?usp=sharing).
 2. Open the downloaded APK file.
 3. Follow the on-screen instructions to complete the installation.
 
