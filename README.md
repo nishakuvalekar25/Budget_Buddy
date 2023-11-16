@@ -13,9 +13,8 @@ Join us on this thrilling adventure towards financial liberation, where every ex
 2. Features
 3. Demo
 4. Installation
-5. Usage
-6. Bug Reporting
-7. Contact
+5. Bug Reporting
+6. Contact
    
 ## Download the APK
 📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1kNF7LLhK-znKRhCKDCnOM7dxsvFaVSKs/view?usp=sharing). Install it on your Android device to find solution for effortlessly tracking your daily expenses and incomes.
