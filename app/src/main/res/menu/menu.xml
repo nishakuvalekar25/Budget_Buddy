@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+
+
+    <item
+        android:id="@+id/income"
+        android:title="Income"
+        android:icon="@drawable/income__1_"
+        />
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/baseline_dashboard_24"/>
+
+    <item
+        android:id="@+id/expense"
+        android:title="Expense"
+        android:icon="@drawable/expenses"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/info"
+        />
+
+</menu>

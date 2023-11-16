@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="income">Income</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="AboutUs">
+
+
+Welcome to BudgetBuddy, your magical solution for effortlessly tracking your daily expenses and incomes. Imagine a world where managing your finances feels like a breeze—that is precisely what BudgetBuddy offers. It is not just an app; it is your personal finance genie, here to simplify your money management journey. No more wrestling with stacks of receipts or scribbling down every purchase—BudgetBuddy makes it as simple as a flick of the wrist. Record your expenses and incomes with ease, effortlessly categorize them to reflect your lifestyle, and uncover invaluable insights that illuminate your spending patterns. We are not just about numbers; we are about turning your financial journey into an exciting quest. Picture this: navigating through your expenses is like unlocking levels in a game, with each income bringing you closer to your financial aspirations. Join us on this thrilling adventure towards financial liberation, where every expense narrates a story, and each income propels you towards your dreams. With BudgetBuddy, managing your money is not a task—it is a magical journey waiting to unfold.
+    </string>
+
+
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+</resources>
