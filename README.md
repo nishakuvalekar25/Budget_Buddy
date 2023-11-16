@@ -18,7 +18,7 @@ Join us on this thrilling adventure towards financial liberation, where every ex
 7. Contact
    
 ## Download the APK
-📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing). Install it on your Android device to find solution for effortlessly tracking your daily expenses and incomes.
+📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1kNF7LLhK-znKRhCKDCnOM7dxsvFaVSKs/view?usp=sharing). Install it on your Android device to find solution for effortlessly tracking your daily expenses and incomes.
 
 ## Features
 ✨ **Expense Tracking** : Allows users to input and categorize their daily expenses, including the amount spent, category (like food, transportation, entertainment), date, and additional notes.
