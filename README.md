@@ -38,7 +38,7 @@ These features collectively enable users to comprehensively track both their inc
 https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/7ba2facd-4090-4e80-9fe0-160fbc8a3358
 
 ## Installation 
-📲 To install ConvertEase on your Android device, follow these steps:
+📲 To install BudgetBuddy on your Android device, follow these steps:
 
 1. Download the APK from the [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing).
 2. Open the downloaded APK file.
