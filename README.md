@@ -2,6 +2,8 @@
 
 ![image](https://github.com/nishakuvalekar25/BudgetBuddy/assets/121301819/48c7fa85-45fc-4b61-83eb-48702ed1c499)
 
+
+
 Welcome to BudgetBuddy, your magical solution for effortlessly tracking your daily expenses and incomes. Imagine a world where managing your finances feels like a breeze—that is precisely what BudgetBuddy offers. It is not just an app; it is your personal finance genie, here to simplify your money management journey. 
 
 ## Table of Contents
