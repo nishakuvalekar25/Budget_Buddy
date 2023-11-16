@@ -15,7 +15,7 @@ Welcome to BudgetBuddy, your magical solution for effortlessly tracking your dai
 6. Contact
 
 ## Download the APK
-📥 Get the latest version of BudgetBuddy by downloading the APK from Here. Install it on your Android device to unlock a world of multimedia conversion possibilities.
+📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing). Install it on your Android device to unlock a world of multimedia conversion possibilities.
 
 ## Features
 ✨ **Expense Tracking: Allows users to input and categorize their daily expenses, including the amount spent, category (like food, transportation, entertainment), date, and additional notes.
@@ -29,20 +29,13 @@ Welcome to BudgetBuddy, your magical solution for effortlessly tracking your dai
 ✨ **Editable Tracked Budget: Users have the ability to modify their tracked budgets, including adjusting spending limits, adding or removing budget categories, or changing budget amounts for specific categories. This flexibility allows users to adapt their budgets according to changing financial circumstances or priorities.
 
 ## Demo
-
-
 https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/5b0a9c9b-afa4-4ea6-9e36-8cba7afdf1d4
 
-
-## Installation
-📲 To install BudgetBuddy on your Android device, follow these steps:
-
-1. Download the APK from the Here.
-2. Open the downloaded APK file.
-3. Follow the on-screen instructions to complete the installation.
 ## Usage
 🚀 Explore our user guide to learn how to make the most of our app:
+
 ## Bug Reporting
 🐞 Found a bug or have feedback? We'd love to hear from you. Please report issues by sending an email to BudgetBuddy.
+
 ## Contact
 📧 For any queries, suggestions, or support, feel free to contact us at BudgetBuddy.
