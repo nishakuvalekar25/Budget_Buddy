@@ -16,26 +16,33 @@ Welcome to BudgetBuddy, your magical solution for effortlessly tracking your dai
 
 ## Download the APK
 📥 Get the latest version of BudgetBuddy by downloading the APK from [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing). Install it on your Android device to unlock a world of multimedia conversion possibilities.
+✨ **Expense Tracking** : Allows users to input and categorize their daily expenses, including the amount spent, category (like food, transportation, entertainment), date, and additional notes.
 
-## Features
-✨ **Expense Tracking: Allows users to input and categorize their daily expenses, including the amount spent, category (like food, transportation, entertainment), date, and additional notes.
+✨ **Income Tracking** : Enables users to log their sources of income, such as salary, freelance earnings, or any other financial gains. It might include fields for income type, amount, and date received.
 
-✨ **Income Tracking: Enables users to log their sources of income, such as salary, freelance earnings, or any other financial gains. It might include fields for income type, amount, and date received.
+✨ **Visual Reports and Analytics** : Generates graphs, charts, or reports summarizing spending patterns, income sources, and overall financial health. This feature can offer insights into where money is going and trends over time.
 
-✨ **Visual Reports and Analytics: Generates graphs, charts, or reports summarizing spending patterns, income sources, and overall financial health. This feature can offer insights into where money is going and trends over time.
+✨ **Expense Categories and Tags** : Allows users to categorize expenses further by creating custom categories or applying tags for better organization and analysis.
 
-✨ **Expense Categories and Tags: Allows users to categorize expenses further by creating custom categories or applying tags for better organization and analysis.
+✨ **Editable Tracked Budget** : Users have the ability to modify their tracked budgets, including adjusting spending limits, adding or removing budget categories, or changing budget amounts for specific categories. This flexibility allows users to adapt their budgets according to changing financial circumstances or priorities.
 
-✨ **Editable Tracked Budget: Users have the ability to modify their tracked budgets, including adjusting spending limits, adding or removing budget categories, or changing budget amounts for specific categories. This flexibility allows users to adapt their budgets according to changing financial circumstances or priorities.
 
-## Demo
-https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/5b0a9c9b-afa4-4ea6-9e36-8cba7afdf1d4
 
-## Usage
-🚀 Explore our user guide to learn how to make the most of our app:
+These features collectively enable users to comprehensively track both their income and expenses, visualize the data through pie charts for better insights, and customize their tracked budgets to suit their financial planning preferences.
+
+
+## Installation 
+📲 To install ConvertEase on your Android device, follow these steps:
+
+1. Download the APK from the [Here](https://drive.google.com/file/d/1pgkWO0p-qbtFY6iD_wN3i93YEN8Zsmn5/view?usp=sharing).
+2. Open the downloaded APK file.
+3. Follow the on-screen instructions to complete the installation.
 
 ## Bug Reporting
 🐞 Found a bug or have feedback? We'd love to hear from you. Please report issues by sending an email to BudgetBuddy.
 
 ## Contact
 📧 For any queries, suggestions, or support, feel free to contact us at BudgetBuddy.
+
+##
+© 2023 Budgetbuddy. All rights reserved.
