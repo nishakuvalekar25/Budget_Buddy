@@ -46,10 +46,6 @@ https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/7ba2facd-4090-
 ## Bug Reporting
 🐞 Found a bug or have feedback? We'd love to hear from you. Please report issues by sending an email to BudgetBuddy.
 
-## Contributors
-
-- Grishma Zagade ([@GrishmaZagade]((https://github.com/GrishmaZagade))
-- Purvi Panwalkar ([PurviPanwalkar](https://github.com/PurviPanwalkar))
   
 ## Contact
 📧 For any queries, suggestions, or support, feel free to contact us at BudgetBuddy.
