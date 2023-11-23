@@ -8,6 +8,8 @@ Welcome to BudgetBuddy, your magical solution for effortlessly tracking your dai
 
 Join us on this thrilling adventure towards financial liberation, where every expense narrates a story, and each income propels you towards your dreams. With BudgetBuddy, managing your money is not a task—it is a magical journey waiting to unfold.
 
+[![HitCount](https://hits.dwyl.com/nishakuvalekar25/Budget_Buddy.svg?style=flat&show=unique)](http://hits.dwyl.com/nishakuvalekar25/Budget_Buddy)
+
 ## Table of Contents
 1. Download the APK
 2. Features
