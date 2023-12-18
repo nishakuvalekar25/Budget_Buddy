@@ -1,6 +1,5 @@
 # BudgetBuddy : Expense Tracker System
 
-
 ![logo](https://github.com/nishakuvalekar25/Budget_Buddy/assets/121301819/b792c106-236e-4efa-9a9e-67956b4f0353)
 
 
